@@ -1,0 +1,3 @@
+export const CHANGE_USER_LIST = ' CHANGE_USER_LIST';
+export const CHANGE_TOTAL = 'CHANGE_TOTAL';
+export const CHANGE_QUERY_INFO = 'CHANGE_QUERY_INFO';

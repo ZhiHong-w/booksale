@@ -1,0 +1,9 @@
+export const breadUsers = ['职员管理','职员列表'];
+export const breadCustomers = ['用户管理','用户列表'];
+export const breadRoles = ['职员管理','角色列表'];
+export const breadRights = ['职员管理','权限列表'];
+export const breadGoods = ['图书管理','图书列表'];
+export const breadParams = ['商品管理','分类参数'];
+export const breadCategories = ['图书管理','图书分类'];
+export const breadOrders = ['订单管理','订单列表'];
+export const breadReports = ['数据统计','数据报表'];
